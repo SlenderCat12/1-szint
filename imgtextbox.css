@@ -1,0 +1,13 @@
+.img-text-box{
+    width: 325px;
+    border-radius: 1.5rem;
+    padding: 1rem;
+}
+
+.img-text-box img{
+    /* object-fit: cover;
+    width: 125px; */
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
