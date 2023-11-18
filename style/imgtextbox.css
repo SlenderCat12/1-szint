@@ -4,10 +4,24 @@
     padding: 1rem;
 }
 
+
 .img-text-box img{
     /* object-fit: cover;
     width: 125px; */
     width: 80px;
     height: 80px;
     object-fit: contain;
+}
+
+.gyuru1{
+    background-image: url(../images/gyuru1.jpg);
+}
+.gyuru2{
+    background-image: url(../images/gyuru2.jpg);
+}
+.gyuru3{
+    background-image: url(../images/gyuru3.jpg);
+}
+.gyuru4{
+    background-image: url(../images/gyuru4.jpg);
 }

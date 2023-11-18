@@ -1,15 +1,16 @@
-.white-button{
+.feher-button{
     background-color:white;
     display: flex;
     justify-content: center;
     width: 100px;
     padding: 15px 25px;
     text-align: center;
+    border: 2px, solid, black;
     border-radius: 32px;
     font-size: 20px;
     text-decoration: none;
     color: black;
-    font-family: Inter;
+    font-family: url(fonts/CrimsonPro-Italic-VariableFont_wght.ttf);
 }
 
 .black-button{
@@ -22,7 +23,6 @@
     border-radius: 32px;
     font-size: 20px;
     text-decoration: none;
-    color: var(--button-text);
-    transition: ease-in-out .25s;
-    font-family: Inter;
+    color: white;
+    font-family: url(fonts/CrimsonPro-Italic-VariableFont_wght.ttf);
 }
