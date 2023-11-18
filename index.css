@@ -3,3 +3,25 @@
 @import url(style/imgtextbox.css);
 /* @import url(style/fonts/);
 @import url(images/); */
+
+html{
+    background-color: beige;
+}
+
+body{
+    background-color: white;
+
+}
+
+h1{
+    font-weight: 600;
+    font-size: large;
+}
+
+h2{
+
+}
+
+p{
+
+}
